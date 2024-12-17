@@ -1,0 +1,29 @@
+# Core libraries for web scraping and data processing
+scrapy
+selenium
+beautifulsoup4
+pandas
+nltk
+spacy
+
+# Libraries for embeddings and machine learning
+sentence-transformers
+langchain
+openai
+
+# Vector database integration
+pinecone-client
+
+# FastAPI for backend API
+fastapi
+uvicorn
+
+# Environment variable management
+python-dotenv
+
+# Testing tools
+pytest
+locust
+
+# Optional libraries for deployment
+redis
